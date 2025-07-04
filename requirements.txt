@@ -1,0 +1,8 @@
+streamlit
+langchain
+chromadb
+PyMuPDF
+python-docx
+tiktoken
+groq
+langchain_community
